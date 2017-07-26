@@ -1,18 +1,13 @@
-# resume2.0
+##下载所需模块
+        npm  install  --save-dev
+##下载makedown模块
 
-> A Vue.js project
+        npm  install marked
 
-## Build Setup
+##下载语法高亮的模块
 
-``` bash
-# install dependencies
-npm install
+        npm install prismjs
 
-# serve with hot reload at localhost:8080
-npm run dev
+###  运行
 
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+        npm run dev
